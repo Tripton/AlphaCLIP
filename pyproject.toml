@@ -14,7 +14,8 @@ dependencies = [
     "regex",
     "tqdm",
     "torch",
-    "torchvision"
+    "torchvision",
+    "packaging"
 ]
 
 [tool.setuptools.packages.find]
